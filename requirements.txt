@@ -1,0 +1,12 @@
+openai
+pillow
+opencv-python
+moviepy
+fastapi
+uvicorn
+gTTS
+englisttohindi
+pyttsx3
+python-dotenv
+transformers
+torch
